@@ -1,0 +1,10 @@
+{
+  "name": "dockerized-node-ns",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sample dockerized Node.js app",
+  "author": "Charlie Crawford III <charlie@shippable.com>",
+  "dependencies": {
+    "express": "4.12.0"
+  }
+}
