@@ -1,4 +1,2 @@
 script:
   - true
-
-commit_container: cadbot/dockerized-nodejs
